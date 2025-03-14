@@ -11,7 +11,7 @@ LankaMate AI Chatbot is a generative artificial intelligence chatbot that provid
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/LankaMate-AI-Chatbot.git
+    git clone https://github.com/Pahinithi/AI-Chatbot-API.git
     cd LankaMate-AI-Chatbot
     ```
 
